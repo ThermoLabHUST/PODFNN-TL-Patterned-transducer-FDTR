@@ -1,0 +1,21 @@
+# MATLAB
+*.asv
+*.m~
+*.mlx.autosave
+slprj/
+codegen/
+*.mex*
+*.p
+
+# Figures and logs
+*.fig
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# COMSOL temporary / lock files
+*.mph.lock
+*.bak
